@@ -59,7 +59,8 @@ public class GamePanel extends JPanel implements Runnable{ // class inherits JPa
 	}
 	
 	public void setupGame () {
-		
+
+		// INSTRUCTIONS TO PLAY THE GAME
 		System.out.println("Welcome to the 2D Treasure Game!");
 		System.out.println("You are an adventurous young boy who just stumbled upon locked treasure in the pathway to your left,");
 		System.out.println("your objective is to find the keys to open the doors to the locked treasure!!");
